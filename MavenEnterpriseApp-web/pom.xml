@@ -96,12 +96,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.26.46.67:8081/repository/sreetraining/</url>
+	      <url>http://localhost:8081/repository/mavenproject/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository</name>
-	      <url>http://3.26.46.67:8081/repository/sreetraining-snapshot/</url>
+	      <url>http://localhost:8081/repository/mavenproject-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
