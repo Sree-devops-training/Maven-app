@@ -12,7 +12,7 @@
 	<groupId>com.mt</groupId>
 	<artifactId>MavenEnterpriseApp-web</artifactId>
 	<packaging>war</packaging>
-	<version>1.0</version>
+	<version2.7.0-SNAPSHOT></version>
 
 	<name>MavenEnterpriseApplication</name>
 	<url>http://mithuntechnologies.com</url>
